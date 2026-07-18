@@ -1,11 +1,5 @@
 # Learning Log
 
-
-Format:
-
-\#\# YYYY-MM-DD
-
-Did: \<what you worked on today\>
 Daily log of what I did, what confused me, and what's next. One entry per coding day, 2-3 lines each.
 
 ## 2026-08-03
