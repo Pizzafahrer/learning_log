@@ -30,3 +30,9 @@ Confused by: Base-1(unary System), Base-2(Binary System) and Base-10(Decimal Sys
 Next: I want to start listening to the second lecture of CS50 introduction to CS and look up my not understood points
 
 ---
+
+## 20-07-2026
+
+Did: This is something unrelated to programming. but today my dad had his 47th birthday and I feel quite guilty about only getting him some small things like chocolate, chips and beer. On top of that i buyed those things today on his birthday after school even though i had enough time to do it while I was in Berlin last week(and i could have bought a better gift). Anyways today I started to watch the second lecture of CS50 even if only the very first 10 to 20 minutes. Then i wanted to set up my programming environment for C but it kinda not worked and decided to continue with CS50 and the C programming tomorrow. But I decided to at least build some really small projects in python(number guessing, very simple calculator and rock paper scissor). Ah and I did research those topics i didnt understood
+Confused by: Setting up the C working environment, its a bit complicated
+Next: Setting up the C working environment and watching the lecture about halfway.
