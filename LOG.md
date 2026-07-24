@@ -46,3 +46,11 @@ Confused by: I was a bit confused by the way you have to import bibliothecs for 
 Next: I will continue to watch the lecture. I also will look a bit into python coding with a raspberry pi because I am going to go on an IT camp next week where we have to handle raspberry pis.
 
 ---
+
+## 24-08-2026
+
+Did: Today I watched a tiny bit of the lecture but instead cleared some confussion of mien up. Like difference between print and return and why, parameters & arguments and why/where different coding languages are being used.
+Confused by: I am a bit confused by how deep Assembly, C or C++ are managing things in your computer and how complicated it must be.
+Next: I need to watch the lecture to the end and begin solving the problem set CS50 provides.
+
+---
