@@ -47,10 +47,18 @@ Next: I will continue to watch the lecture. I also will look a bit into python c
 
 ---
 
-## 24-08-2026
+## 24-07-2026
 
 Did: Today I watched a tiny bit of the lecture but instead cleared some confussion of mien up. Like difference between print and return and why, parameters & arguments and why/where different coding languages are being used.
 Confused by: I am a bit confused by how deep Assembly, C or C++ are managing things in your computer and how complicated it must be.
 Next: I need to watch the lecture to the end and begin solving the problem set CS50 provides.
+
+---
+
+## 12-09-2026
+
+Did: Got a bit of the road for nearly 2 months. not good. Anyway the last few days I worked on a password manager for maybe personal use, but probably unrealistic. The password manager uses the CRUD-system so far with simple JSON file loading. I also informed myself and tried a bit of encrypting and decrypting which will later be added to my project.
+Confused by: The world of databanks is huge.
+Next: Adding en-/description to my project and maybe even starting with UI layout and design.
 
 ---
