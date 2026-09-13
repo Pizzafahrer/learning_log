@@ -62,3 +62,11 @@ Confused by: The world of databanks is huge.
 Next: Adding en-/description to my project and maybe even starting with UI layout and design.
 
 ---
+
+## 13-09-2026
+
+Did: Today I added the en/decryption methodes to my password manager project, so now the passwords are safely encrypted and safe. Additionally I got a first look into streamlit. Its pretty cool.
+Confused by: A bit about the decryption encryption proceses, but only a minor bit so I have to think a bit more before using it.
+Next: I need to start change my code so it can coexist with streamlit. I dont think I will be able to do it one session, but I am staying optimistic about it.
+
+---
