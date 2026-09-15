@@ -70,3 +70,11 @@ Confused by: A bit about the decryption encryption proceses, but only a minor bi
 Next: I need to start change my code so it can coexist with streamlit. I dont think I will be able to do it one session, but I am staying optimistic about it.
 
 ---
+
+## 15-09-2026
+
+Did: Well for this day I added various functions to the streamlit UI. I made it a kind of dashboard with read,update molten together.
+Confused by: Honestly I still dont fully understand st.session_state, or better sayed I know how it works but not really how and when I should implement it
+Next: I will be daring and say that I will finish the password manager in the next session.
+
+---
