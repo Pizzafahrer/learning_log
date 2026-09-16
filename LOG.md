@@ -78,3 +78,11 @@ Confused by: Honestly I still dont fully understand st.session_state, or better 
 Next: I will be daring and say that I will finish the password manager in the next session.
 
 ---
+
+## 16-09-2026
+
+Did: Today I added the delete function to the UI and cleaned up my code a bit.
+Confused by: Honestly nothing. just annoyed that I have to perfect a learning project.
+Next: Really finish the project in the next session.
+
+---
