@@ -86,3 +86,12 @@ Confused by: Honestly nothing. just annoyed that I have to perfect a learning pr
 Next: Really finish the project in the next session.
 
 ---
+
+## 17-09-2026
+
+Did: Today I added various small features to my project that make it a bit more userfriendly and betterlooking, also made my code tidier and and some things a tiny bit more secure with another library in python.
+But I finished it yay.
+Confused by: Not realy much. Just sometimes a messy code can confuse you more than even neccesary.
+Next: Start a new project, a small AI assistant.
+
+---
